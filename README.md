@@ -2,7 +2,14 @@ Forever - E-Commerce Clothing Store
 
 "Forever" is a full-featured e-commerce website built using the MERN (MongoDB, Express, React, Node.js) stack. This project is a clothing store that offers a seamless shopping experience, complete with user authentication, order management, and a fully functional admin dashboard to manage products. Customers can easily browse, filter, and purchase items through a secure and integrated payment gateway.
 
-Project demo live link: https://forever-frontend-x505.onrender.com/
+Project live link for frontend: https://forever-frontend-x505.onrender.com/
+Project live link for admin page: https://forever-admin-iofl.onrender.com
+
+Admin login Details: [ Email: admin@example.com ; password: admin123]
+
+Note:
+- Please do not delete any products from admin page
+- Please wait 50 sec on the frontend page to load the backend because'm using a free version.
 
 Features
 
